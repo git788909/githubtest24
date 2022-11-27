@@ -1,0 +1,4 @@
+#ignorar los secretos
+secretos[0-3].txt
+
+
